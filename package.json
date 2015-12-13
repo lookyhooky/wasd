@@ -1,0 +1,11 @@
+{
+  "name": "wasd",
+  "version": "0.0.1",
+  "description": "A terminal emulator for text based browser games.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Hooks <john@hookscrane.com>",
+  "license": "MIT"
+}
